@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/db/de/e1/dbdee1775adba736c980f5da0a181e2b.gif" width="250"/>
 </div>
+<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
