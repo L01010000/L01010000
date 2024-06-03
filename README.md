@@ -1,5 +1,5 @@
 <div id="header" align="center">
-
+<br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFrODFuMnZjM2c4MzlxczdsamU3NDZ5amJ5aGxyYWk1a3EzbGtudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QT9SVRVexMgOk/giphy.webp" width="600"/>
   
 <a href="https://medium.com/@imthedanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imthedanger" height="30" width="40" /></a>
