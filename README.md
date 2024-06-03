@@ -2,9 +2,9 @@
 <br>
   <img src="https://github.com/L101111/L101111/blob/main/s.gif" width="600"/>
   <br>
-<a href="https://medium.com/@imthedanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imthedanger" height="60" width="80" /></a>
-<a href="https://discordapp.com/users/1136325612592701590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@iamtheonewhoknocks__" height="60" width="80" /></a>
-  <a href="https://twitter.com/@_imthedanger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_imthedanger_" height="60" width="80" /></a>
+<a href="https://medium.com/@imthedanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imthedanger" height="40" width="60" /></a>
+<a href="https://discordapp.com/users/1136325612592701590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@iamtheonewhoknocks__" height="40" width="60" /></a>
+  <a href="https://twitter.com/@_imthedanger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_imthedanger_" height="40" width="60" /></a>
 
 <hr>
 
