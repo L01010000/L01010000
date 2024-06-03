@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/db/de/e1/dbdee1775adba736c980f5da0a181e2b.gif" width="250"/>
 
-  <img src="https://github.com/L101111/L101111/blob/main/s.gif" width="600"'>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFrODFuMnZjM2c4MzlxczdsamU3NDZ5amJ5aGxyYWk1a3EzbGtudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QT9SVRVexMgOk/giphy.webp" width="600"'>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@imthedanger) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@radioheadl1515) 
 
